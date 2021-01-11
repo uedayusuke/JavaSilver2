@@ -1,4 +1,4 @@
-package chap1.com.se;
+package chap1.ex6.com.se;
 
 class Foo {
 	//printメソッド
