@@ -10,7 +10,7 @@ public class Ex6 {
 		}
 		
 		/*
-		ブロックを外れている目、"x"は使えない
+		ブロックを外れているため、"x"は使えない
 		System.out.println(x);
 		x = 300;		
 		*/
